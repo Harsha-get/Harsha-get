@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Harsha K<br><br>🎓 I am currently pursuing my studies in JAIN UNIVERSITY.<br>💡 I am passionate about Data Engineering and building scalable data solutions.<br><br>🚀 I am currently learning and working with:<br><br>* SQL<br>* Python<br>* PySpark<br>* Databricks<br><br>🔧 I enjoy building end-to-end ETL pipelines and working with large datasets to extract meaningful insights.<br><br>📄 **Resume:** [https://drive.google.com/drive/folders/19-4lv_If3oXTQJY4GfgYTYCvEN5Ul6-B?usp=drive_link]<br><br>📫 **Reach me at:**<br><br>* Email: harshak.work4@gmail.com<br>* LinkedIn: www.linkedin.com/in/harsha-k-835655359<br><br>---<br>
+# 👋 Hi, I'm Harsha K<br><br>🎓 I am currently pursuing my studies in JAIN UNIVERSITY.<br>💡 I am passionate about Data Engineering and building scalable data solutions.<br><br>🚀 I am currently learning and working with:<br><br>☐ SQL<br>☐ Python<br>☐  PySpark<br>☐  Databricks<br><br>🔧 I enjoy building end-to-end ETL pipelines and working with large datasets to extract meaningful insights.<br><br>📄 **Resume:** [https://drive.google.com/drive/folders/19-4lv_If3oXTQJY4GfgYTYCvEN5Ul6-B?usp=drive_link]<br><br>📫 **Reach me at:**<br><br>* Email: harshak.work4@gmail.com<br>* LinkedIn: www.linkedin.com/in/harsha-k-835655359<br><br>---<br>
 
 
 ## 🌐 Socials:
